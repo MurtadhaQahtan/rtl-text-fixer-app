@@ -1,6 +1,8 @@
 # RTL Text Fixer – Arabic, Persian, Urdu and Hebrew text for apps without RTL support (Windows)
 
-**RTL Text Fixer** is a Windows 10/11 app (Microsoft Store, paid — **release pending**, the Store link will be added here)
+[![Get it from Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9NQC161JJM09)
+
+**RTL Text Fixer** (Microsoft Store ID `9NQC161JJM09`, US$2.99, v1.0) is a Windows 10/11 app
 that fixes right-to-left text for programs that don't support it, such as Adobe Premiere Pro, After Effects, Unity,
 Blender, many game engines and 3D/video tools. In those programs Arabic letters appear disconnected and RTL text appears
 backwards. RTL Text Fixer converts the text so it displays correctly there:
@@ -31,6 +33,7 @@ and paste. Pressing the hotkey again restores the original. An **Unshape** mode 
   Urdu appears in Naskh style, not Nastaliq; output is per line, so if the target app re-wraps a long line the lines appear
   in the wrong order (use the wrap option); it does not translate. Windows only (10 1809+ / 11, x64 and ARM64).
 
-Website (12 languages, FAQ): https://murtadhaqahtan.github.io/rtl-text-fixer-site/
+Website (12 languages, FAQ): https://murtadhaqahtan.github.io/rtl-text-fixer-site/ ·
+Store: https://apps.microsoft.com/detail/9NQC161JJM09
 
 The source code is private. This repository only describes the app. Questions: hibari@mail.grokbot.com
